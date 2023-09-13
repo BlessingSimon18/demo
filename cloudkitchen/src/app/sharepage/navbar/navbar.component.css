@@ -1,0 +1,8 @@
+
+.bg-body-tertiary .navbar-nav .nav-link.active-link{
+    color: var(--secondary-color);
+}
+.bg-body-tertiary .navbar-nav .nav-link.active-link:hover{
+    color: var(--primary-color);
+    text-decoration: underline;
+}
